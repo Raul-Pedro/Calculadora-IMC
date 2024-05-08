@@ -1,5 +1,5 @@
 # Calculadora-IMC
-Calculadora simples para calcula de imc, apenas com entradas de peso em KG, e da altura em cm, além da dar os valores do imc, também é mostrado o índice
+Calculadora simples para calculo de imc, apenas com entradas de peso em KG(quilogramas), e da altura em cm(centimetros), além da dar os valores do imc, também é mostrado o índice
 
 INDICE USADO:
 
